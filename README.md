@@ -3,4 +3,4 @@
 - To run the project 
 - Download all the requirements in the requirements.txt file
 -Wordclod wheel already provided 
-- to start the project run "streamlit run NLPtools.py"
+- to start the project run "streamlit run NLPTools.py"
